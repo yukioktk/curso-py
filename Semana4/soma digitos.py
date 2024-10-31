@@ -7,3 +7,7 @@ while numero > 0:
     numero = numero // 10
 
 print(soma)
+
+
+
+#a
