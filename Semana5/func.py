@@ -14,7 +14,7 @@ print(multiplica(soma(20, 40), soma(65, 3), multiplica(2, 3, 4)))
 
 
 def evitadog():
-    return ":toputo:"
+    return "oi"
 
 print(evitadog())
 
